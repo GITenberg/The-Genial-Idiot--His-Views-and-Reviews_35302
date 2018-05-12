@@ -1,0 +1,30 @@
+_repo: The-Genial-Idiot--His-Views-and-Reviews_35302
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35302-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2011-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conversation -- Fiction'
+- !lcsh 'Boardinghouses -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+title: 'The Genial Idiot: His Views and Reviews'
+url: http://www.gutenberg.org/ebooks/35302
